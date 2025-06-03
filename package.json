@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thisara-jayamuni/bbq_tracker.git"
+    "url": "git+https://github.com/HarshanaDeakinUni/bbq_tracker/tree/Docker-for-the-8.2HD.git"
   },
-  "author": "Thisara Jayamuni",
+  "author": "Harshana Fernando",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thisara-jayamuni/bbq_tracker/issues"
+    "url": "https://github.com/HarshanaDeakinUni/bbq_tracker/tree/Docker-for-the-8.2HD/issues"
   },
-  "homepage": "https://github.com/thisara-jayamuni/bbq_tracker#readme",
+  "homepage": "https://github.com/HarshanaDeakinUni/bbq_tracker/tree/Docker-for-the-8.2HD#readme",
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.10"
